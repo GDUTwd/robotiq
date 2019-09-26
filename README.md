@@ -35,3 +35,4 @@ This repo holds source code for all versions > groovy. For those versions <= gro
 [ROS wiki]: http://ros.org/wiki/robotiq
 [SVN repo]: https://code.google.com/p/swri-ros-pkg/source/browse
 
+此包为官方包，未做任何修改。
